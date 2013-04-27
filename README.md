@@ -1,0 +1,4 @@
+AwesomeCaret
+============
+
+jQuery Caret Plugin
